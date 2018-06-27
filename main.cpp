@@ -36,4 +36,8 @@ int main(int argc, char *argv[])
     int res = a.exec();
     connectSql.closeConnection(); //关闭数据库
     return res;
+
+
+
+
 }
