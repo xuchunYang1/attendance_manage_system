@@ -31,6 +31,8 @@ int main(int argc, char *argv[])
     //EmployeeForm emW;
     //emW.show();
 //    mainW.show();
+
+    //test git
     int res = a.exec();
     connectSql.closeConnection(); //关闭数据库
     return res;
